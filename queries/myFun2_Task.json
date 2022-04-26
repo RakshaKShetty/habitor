@@ -3,7 +3,7 @@
   "pluginId": "js-plugin",
   "unpublishedAction": {
     "name": "myFun2",
-    "fullyQualifiedName": "JSObject1.myFun2",
+    "fullyQualifiedName": "JSObject2.myFun2",
     "datasource": {
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin",
@@ -17,7 +17,7 @@
       "userPermissions": []
     },
     "pageId": "Task",
-    "collectionId": "Task_JSObject1",
+    "collectionId": "Task_JSObject2",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -27,6 +27,7 @@
       "isAsync": true
     },
     "executeOnLoad": false,
+    "clientSideExecution": true,
     "dynamicBindingPathList": [
       {
         "key": "body"
@@ -41,7 +42,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Task_JSObject1.myFun2",
+  "id": "Task_JSObject2.myFun2",
   "deleted": false,
-  "gitSyncId": "62678a2d00cba01cd03039c5_62678a2d00cba01cd03039cf"
+  "gitSyncId": "62678a2d00cba01cd03039c5_62678a2d00cba01cd03039cc"
 }
