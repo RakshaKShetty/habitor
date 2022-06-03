@@ -1,7 +1,14 @@
 {
-  "fileFormatVersion": 1,
   "clientSchemaVersion": 1,
-  "serverSchemaVersion": 3,
+  "serverSchemaVersion": 4,
+  "pageOrder": [
+    "Habit",
+    "Task"
+  ],
+  "publishedPageOrder": [
+    "Habit",
+    "Task"
+  ],
   "publishedDefaultPageName": "Task",
   "unpublishedDefaultPageName": "Task",
   "invisibleActionFields": {
@@ -38,18 +45,7 @@
       "publishedUserSetOnLoad": false
     }
   },
-  "editModeTheme": {
-    "name": "Classic",
-    "displayName": "Classic",
-    "isSystemTheme": true,
-    "deleted": false
-  },
-  "publishedTheme": {
-    "name": "Classic",
-    "displayName": "Classic",
-    "isSystemTheme": true,
-    "deleted": false
-  },
   "publishedLayoutmongoEscapedWidgets": {},
-  "unpublishedLayoutmongoEscapedWidgets": {}
+  "unpublishedLayoutmongoEscapedWidgets": {},
+  "fileFormatVersion": 2
 }
